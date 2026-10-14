@@ -1,8 +1,23 @@
-# y2k-web-blinkies
+<!-- ==================== HTML ==================== -->
+<html><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blinkie collection</title>
+    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+    <style>
 
-<img width="97" height="31" alt="image" src="https://github.com/user-attachments/assets/baa4f8e4-131f-4f60-a05c-4057432ce129" />
+body { background-color: white; color: black; font-family: Verdana; }
 
-<body>
+    footer {
+  text-align: center;
+  padding: 3px;
+  background-color: white;
+  color: black;
+}
+    
+    </style>
+  </head>
+  <body>
   
   <header>
   <center><h1>Welcome to Adrian's Blinkie Collection!</h1></center>
@@ -52,4 +67,4 @@
     
   
 
-<div id="extension-pddjl"></div></body>
+<div id="extension-pddjl"></div></body></html>
